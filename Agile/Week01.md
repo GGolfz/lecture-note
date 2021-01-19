@@ -78,7 +78,11 @@
 Failure Rate: Software doesn't wear out, it deteriorates
 โอกาสในการเกิดความล้มเหลวผิดพลาด: ซอฟต์แวร์จะไม่มีการเสื่อมสภาพแบบพัง แต่สามารถตกรุ่นได้ ต่างกับ ฮาร์ดแวร์ที่อาจเกิดความเสียหายได้ง่ายกว่า
 
+Deteriorates -> Out of date -> Provide lower value than before.
+
 Maintenance: When a hardware component wear out, it is replaced by a spare part. There are no software spare part. Software failure indicates an error in design or in the process through which design was translated into machine executable code
+
+Maintenance ของ Software จะไม่ใช้อะไหล่ซ่อม แต่จะเปลี่ยนเวอร์ชันของ Software อาจจะเป็นการ Bug Fix, หรือ Patch ให้ Versioning เพิ่มขึ้น (Change Code)
 
 การบำรุงรักษา: ถ้าฮาร์ดแวร์พัง ยังมีอะไหล่ซ่อม แต่ถ้าเป็นซอฟต์แวร์จะไม่มีอะไหล่ซ่อม แต่ความผิดพลาดของซอฟต์แวร์จะเกิดจากการออกแบบ หรือกระบวนการที่จะเปลี่ยนสิ่งที่ออกแบบเป็นโค้ดคำสั่งที่คอมเข้าใจ
 
