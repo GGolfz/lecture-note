@@ -104,6 +104,8 @@ Maintenance ของ Software จะไม่ใช้อะไหล่ซ่�
 
 7) Artificial Intelligence software เป็นการเอา AI เข้ามาใช้ในงานของ software เช่น หุ่นยนต์ (Robotics), Face recognition, pattern recognition, prediction, machine learning ต่าง ๆ
 
+One software can play more than 1 role that they have characteristic of those role.
+
 ## Legacy Software
 ซอฟต์แวร์เก่า
 
