@@ -17,6 +17,16 @@
 
 - การมีผู้ใช้มากขึ้นและมีระยะเวลาในการใช้งานมากขึ้น จะเป็นผลให้เกิดการปรับเปลี่ยนและปรับปรุง กล่าวคือ ซอฟต์แวร์ควรได้รับการบำรุงรักษา
 
+- Maintenance => Versioning, bug fixing to improving your software during use of user.
+
+- Agile dealing with the change during development and use as well.
+
+- Easy to change, Easy to adapt => Maintainable Software.
+
+- Maintainable link with design because good design provide easy maintainence.
+
+
+
 ## Dual Role of Software
 
 ### A product
@@ -59,7 +69,9 @@
 
 - Descriptive information in both hard copy and virtual forms that describe the operation and use of the programs
 
-- เป็นข้อมูลเชิงบรรยาย ที่อยู่ในรูปแบบเอกสารและแบบเสมือน เอาไว้อธิบายการทำงานและการใช้งานโปรแกรม (อารมณ์แบบคู่มือ)
+- เป็นข้อมูลเชิงบรรยาย ที่อยู่ในรูปแบบเอกสารและแบบเสมือน เอาไว้อธิบายการทำงานและการใช้งานโปรแกรม (อารมณ์แบบคู่มือ) 
+
+- Descriptive information can be the comment for explain each line of code in the code file too.
 
 ## Software VS Hareware
 
