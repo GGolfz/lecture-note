@@ -1,0 +1,3 @@
+Provide one positive example and one negative example that indicate the impact of software on our society
+
+The software gives the advantage and disadvantage to our society. For example, the social media software (Ex: Facebook) allows the people in the society can connect, communicate together easier so I will mention that as the advantage of the software. But it might cause the problem that the people can have the problem from communicating via this approach because the text doesn't have the sound or emotion like face-to-face communication. So when people communicate together in social media software, they might misunderstand other context and cause conflict.

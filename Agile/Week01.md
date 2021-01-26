@@ -73,6 +73,8 @@
 
 - Descriptive information can be the comment for explain each line of code in the code file too.
 
+- Comment in code more useful in term of helping in reviewing the code and also remind the thing that you think during code.
+
 ## Software VS Hareware
 
 Failure Rate: Software doesn't wear out, it deteriorates
@@ -129,7 +131,35 @@ One software can play more than 1 role that they have characteristic of those ro
 
 The application of a systematics, disciplined, quantifiable, approach to the development, operation, and maintenance of software; this is the application of engineering to software.
 
+Systematics -> Replicate,Repeated mean do it again
+
+Factory (Manufacturing, Mass product)
+
+Behind the word engineering it focus on systematics, disciplined, quantifiable concept 
+
+System Engineering is the procress that work in the way of engineering approach to your creative work
+
 การประยุกต์ใช้แนวทางที่เป็นระบบสำหรับการพัฒนาจัดการและบำรุงรักษาซอฟต์แวร์
+
+Different from Art which is no reason and use only the emotion.
+(Most of the time)
+
+Why use Software Engineering
+Because Want to deliver that software that high quality every or most of time.
+
+Software Engineering => Process 
+
+Process -> the way that help you to deliver high quality software
+
+Different project may have different fitted process because each project have different context/characteristic.
+
+ไม่มีอันไหนดีที่สุด มีแต่สิ่งที่เหมาะสมที่สุด
+
+Use systematic to make decision to choosing the process.
+
+Not only discipline we also need adaptability and agility.
+
+Every Process lead to the same target which is the quality.
 
 The foundation of software engineering is the process layer 
 
@@ -146,4 +176,13 @@ Method layer ของวิศวกรรมซอฟต์แวร์ ทำ
 Software engineering tools provide automated or semi-automated for the process and the methods.
 
 Tools Layer ของวิศวกรรมซอฟต์แวร์ทำให้เกิดการทำงานอัตโนมัติหรือกึ่งอัตโนมัติแก่ Process layer และ Methods Layer
+
+A quality focus
+
+
+Process -> SDLC Planning,Requirement,design,Analysis/ WaterFall
+
+Methods -> Describe how to planning, how to get requierment and analyze requirement, how to make a good design
+
+Tools -> Editor (IDE), Design App, Diagram drawer, Better software that help you work.
 
