@@ -15,6 +15,7 @@ rmdir : remove directory
 ls ..: list file in previous directory
 date: see current date,time, timezone
 timedatectl : more specific date time from the global
+cd : goto home directory
 ```
 
 ## Do by yourselve 1
@@ -30,4 +31,19 @@ cp subject2.txt Lab113/subject2.txt
 cd Lab112
 mkdir Lab1121
 mkdir Lab1122
+```
+
+## Homework 1
+
+Make a directory name "subject" in Homework1 and in subject directory have file name "Favorite","GoodClasses" and directory name "people" in Homework1 and inside have file name "Famous", Directory "Family" and "Friend"
+
+```bash
+cd homework1/
+mkdir subject
+mkdir people
+vi subject/Favorite
+vi subject/GoodClasses
+vi people/Famous
+mkdir people/Family
+mkdir people/Friend
 ```
