@@ -12,6 +12,9 @@ cat > file : create file by typing and control c
 cp : copy file
 mv : move file (rename file)
 rmdir : remove directory
+ls ..: list file in previous directory
+date: see current date,time, timezone
+timedatectl : more specific date time from the global
 ```
 
 ## Do by yourselve 1
