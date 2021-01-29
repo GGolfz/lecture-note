@@ -1,6 +1,6 @@
 # Week 1 OS Lab
 
-```
+```bash
 mkdir  # make a ew directory name
 cd # change directory
 cd .. # change directory back
@@ -18,7 +18,7 @@ rmdir : remove directory
 
 Make Lab112 and Lab113 directory inside lab1/lab11 and copy subject to Lab112 and copy subject2 to Lab113
 
-```
+```bash
 cd lab11
 mkdir Lab112
 mkdir Lab113
