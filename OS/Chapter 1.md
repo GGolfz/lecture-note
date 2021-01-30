@@ -9,7 +9,7 @@ There are four main structural components of computer that inter connected in so
 3) **I/O Modules**: Move data between the computer and extenal environment such as disk, mouse, keyboard.
 4) **System bus**: Provides for communication among processors, main memory, and I/O Modules
 
-<img src="https://github.com/GGolfz/lecture-note/tree/master/OSLab/image/OS_fig1.jpeg" width="400" height="400">
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig1.jpeg" width="400" height="400">
 
 ## Evolution of the Microprocessor
 ---
@@ -35,9 +35,9 @@ Instruction Register (IR) use for stored fetched instruction
 
 Then loop it.
 
-<img src="https://github.com/GGolfz/lecture-note/tree/master/OSLab/image/OS_fig2.jpeg" height="250px">
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig2.jpeg" height="250px">
 <br/>
-<img src="https://github.com/GGolfz/lecture-note/tree/master/OSLab/image/OS_fig3.jpeg" width="400px">
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig3.jpeg" width="400px">
 
 ## The Memory Hierachy
 ---
