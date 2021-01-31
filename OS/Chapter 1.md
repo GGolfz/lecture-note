@@ -1,7 +1,7 @@
 # Chapter 1 Computer System Overview
 
 ## Basic Elements
----
+
 There are four main structural components of computer that inter connected in some fashion to achieve the main function of computer which  is execute programs.
 
 1) **Processor**: Controls the operation of computer and performs data processing function. When it is only one processor it refer to Central Processing Unit (CPU)
@@ -12,7 +12,7 @@ There are four main structural components of computer that inter connected in so
 <img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig1.jpeg" width="400" height="400">
 
 ## Evolution of the Microprocessor
----
+
 From Hardware revolution that make **microprocessor** which is the single chip that contain processor. It continually evolved to the point that faster than general purpose processor and it also multiprocessor (each chip contain many cores).
 
 **Graphical Processing Unit (GPUs)** provide efficient computation on arrays of data using Single Instruction Multiple Data (SIMD) techniques. It use for general numerical processing, physics simulation for games, computations on large spreadsheets, rendering animation, and also machine learning.
@@ -22,7 +22,7 @@ From Hardware revolution that make **microprocessor** which is the single chip t
 **System on a Chip (SOC)** DSPs,GPUs,Caches, codecs, main momery, and processor put on the same chip.
 
 ## Instruction Execution
----
+
 
 Program consist of two steps of instruction
 1) Fetching instruction from memory
@@ -40,7 +40,7 @@ Then loop it.
 <img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig3.jpeg" width="400px">
 
 ## Interrupt
----
+
 Interrupt provide way to improve processor utilization, Ex: mose I/O Device slower than processor so during transfer the data to printer the processor must pause and wait until printer receive the data which is very wasteful.
 <br/>
 <img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig4.jpeg" width="400px">
@@ -63,7 +63,7 @@ but for (b) is nested interrupt because Incoming instruction Y is higher priorit
 <br/>
 
 ## The Memory Hierachy
----
+
 When we discuss about memory, It have 3 things to concern, How much (Capacity), How fast (access time), and How expensive (cost).
 These three factor has the trade-off between them.
 - Faster access time, greater cost per bit
@@ -81,8 +81,8 @@ Suppose that access data in cache is 50ns and in main memory is 240ns (including
 It will be (0.80 x 50) + (0.20 x 240) = 40 + 48 = 88ns
 
 ## Cache Memory
----
+
 
 ## Direct Memory Access
----
+
 ## Multiprocessor and Multicore Organization
