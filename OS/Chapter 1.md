@@ -64,8 +64,25 @@ but for (b) is nested interrupt because Incoming instruction Y is higher priorit
 
 ## The Memory Hierachy
 ---
+When we discuss about memory, It have 3 things to concern, How much (Capacity), How fast (access time), and How expensive (cost).
+These three factor has the trade-off between them.
+- Faster access time, greater cost per bit
+- Greater capacity, smaller cost per bit
+- Greater capacity, slower access speed
+From below figure it construct by access time which the top is fastest and bottom is lowest.
+
+<br/>
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig8.jpeg" width="400px">
+<br/>
+
+### Average access time
+Suppose that access data in cache is 50ns and in main memory is 240ns (including cache access) and the target data has hit rate for cache is 80%. Construct Average access time for target data.
+
+It will be (0.80 x 50) + (0.20 x 240) = 40 + 48 = 88ns
+
 ## Cache Memory
 ---
+
 ## Direct Memory Access
 ---
 ## Multiprocessor and Multicore Organization
