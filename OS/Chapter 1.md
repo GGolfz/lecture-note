@@ -39,6 +39,29 @@ Then loop it.
 <br/>
 <img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig3.jpeg" width="400px">
 
+## Interrupt
+---
+Interrupt provide way to improve processor utilization, Ex: mose I/O Device slower than processor so during transfer the data to printer the processor must pause and wait until printer receive the data which is very wasteful.
+<br/>
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig4.jpeg" width="400px">
+<br/>
+To fix the above example, the interrupt help processor to change the instruction to do another instruction during wait for printer receive the data as you can see in below figure which is during the I/O get data cpu can continue doing other instruction if there is interrupt.
+<br/>
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig5.jpeg" width="400px">
+<br/>
+If OS have interrupt the instruction cycle will become like this
+<br/>
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig6.jpeg" width="400px">
+<br/>
+
+Interrupt can be nested interrupt if the incoming instructor has the priority more than current execution.
+As you can see from below figure (a) is Sequential Interrupt because Incoming instruction Y is low priority than X so It will wait until X finish Then doing Y
+but for (b) is nested interrupt because Incoming instruction Y is higher priority than X so it will interrupt X and doing Y and Y ended it continue doing X.
+
+<br/>
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/OS_fig7.jpeg" width="400px">
+<br/>
+
 ## The Memory Hierachy
 ---
 ## Cache Memory
