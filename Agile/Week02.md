@@ -79,9 +79,16 @@ Process Framework ทั่วไปมี 5 กิจกรรม
 
 Planning: define the software engineering work by describing the technical tasks to be conducted, the risks that are likely, the resources that will be required, the work products to be produced, and a work schedule.
 
+Planning the project (Minimum work to do) (What you are going to do?)
+
 การวางแผน เป็นการระบุงานของ Software Engineering โดยอธิบายงานทาง technical ที่ต้องทำ ความเสี่ยงที่อาจจะเกิด ทรัพยากรที่ต้องการ สิ่งที่จะสร้างและกำหนดเวลา
 
 Modelling: create models to better understand software requirements and the design that will achieve those requirements.
+
+SDLC
+
+Analysis Model => Simple ER Diagram -> What data store (relationship between data)
+Design Model => ER (Better & Fully) -> How you are going to store data in database (More specific)
 
 สร้าง Model ให้เข้าใจความต้องการและ Design เองก็ต้องตอบสนองความต้องการได้
 
@@ -89,7 +96,11 @@ Construction: combine code generation and the testing that is required to uncove
 
 Construction: เอาโค้ดมาสร้างและเทสเพื่อป้องกัน error
 
+Coding & Testing
+
 Deployment
+
+Prepare system for ready to user and Prepare user for able to use
 
 Deployment : การนำผลงานไปใช้จริง ๆ
 
@@ -97,11 +108,24 @@ For many software projects, framework activities are applied iteratively as a pr
 
 สำหรับ หลายๆ โปรเจค Framework Activity ถูกนำไปใช้ซ้ำ ๆ อยู่เสมอ 
 
+Process Flow
+
+How to put the basic block together to sequence form the process ?
+
+- Linear Process Flow เป็นทางเดียว (Water Fall)
+- Iterative Process Flow มีการวนซ้ำ (Water Fall that can go back => Modify Water Fall)
+- Evolution Process Flow เหมือนเข้ามาเพื่อพัฒนาแล้วก็ออกไป (Run Many Time Each round get some/part of system and can use now => Agile)
+- Parallel Process Flow มีการทำหลายอย่างในเวลาเดียวกัน (Can start drawing model through not get all requirement)
+
+- Process Flow can mix together Ex. Parallel process flow with Evolution Process Flow
+
+Plan/Modelling/Design should happen for sum degree (Have the picture in your head but we encourage to draw to be picture => have clear understand, correct and communicate with people)
+
 Each iteration produces a software increment that provides stakeholders with a subset of overall software features and functionality.
 
 การทำซ้ำแต่ละครั้งจะก่อให้เกิดการเพิ่มซอฟต์แวร์ที่ให้ผู้มีส่วนได้เสียได้ทดลองกับ Feature ขนาดเล็ก ๆ
 
-### Umbrelly
+### Umbrelly Activity
 
 Software engineering process framework activities are complemented by a number of umbrella activities.
 
