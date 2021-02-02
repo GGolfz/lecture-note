@@ -127,6 +127,8 @@ Each iteration produces a software increment that provides stakeholders with a s
 
 ### Umbrelly Activity
 
+To ensure the quality of program ontime and fit in budget.
+
 Software engineering process framework activities are complemented by a number of umbrella activities.
 
 Software engineering process framework activities มีการเสริมด้วย Umbrella activity จำนวนมาก
@@ -134,6 +136,14 @@ Software engineering process framework activities มีการเสริม
 In general, umbrella activities are applied throughout a software project and help a software team manage and control progress, quality, change, and risk.
 
 โดยทั่วไป Umbrella Activity ถูกนำมาใช้ตลอดทั้งโครงการ และช่วยให้ทีมสามารถจัดการควบคุมกระบวนการคุณภาพและความเสี่ยงได้
+
+ถ้ารู้ว่าเริ่มหลุดจาก Schedule จะต้องทำอะไรก็ได้เพื่อให้กลับมาอยู่ในSchedule อีกครั้ง และ product มี quality
+
+Change management (When user want to change requirement : Who decision)
+
+Although you use Agile but it don't mean you can change all to meet user need. (Agile not tell you)
+
+Risk -> Problem thst might occur in the future (How you prevent, What you can do if it happen)
 
 Typical umbrella activities:
 
@@ -145,9 +155,19 @@ Risk management – assess risks that may affect outcome of project or quality o
 
 การจัดการความเสี่ยง
 
-Software quality assurance – define and conduct activities to ensure software quality
+Prevent Project to be late and plan what to do with it.
 
-การประกันคุณภาพ
+Software quality assurance (SQA)– define and conduct activities to ensure software quality
+
+การประกันคุณภาพ พูดเกี่ยวกับ Process ถ้าอยากได้ Good Product ต้องมี Good Process เพื่อจะ สร้าง Product.
+
+Good Requirement also help to get High quality Software
+
+Process => Planning, Analysis, Design, Implement
+
+Good Requirement > Good Design > Good Product
+
+ไม่ควร Launch Software ตอนไม่มี Problem เพราะมันเป็นไปไม่ได้ ควร Launch ตอนที่ มี problem แต่สิ่งที่ตามมาคือ When and Why ทำให้มีการที่จะต้องทำการ Decision Making (Good Enough / No more time, no more cost)
 
 Technical reviews – uncover and remove errors in work products
 
@@ -159,16 +179,19 @@ Measurement – to meet stakeholders’ needs
 
 Software configuration management – manage effects of change
 
-การจัดการการกำหนดค่า
+การจัดการการกำหนดค่า ทำให้สามารถทำงานร่วมกับผู้อื่นได้ง่ายขึ้น  เช่น Good Communication & Version Control Tool
 
 Reusability management – define criteria for work product reuse and establish mechanisms to achieve reusable components
 
 การจัดการการนำมาใช้ใหม่
 
+Design Component for working to reuse that code again.
+
 Work product preparation and production – activities to create work products
 
 การเตรียมผลิตภัณฑ์
 
+Design document also include in work product preparation
 
 ### Process Adaptation
 
