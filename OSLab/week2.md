@@ -1,5 +1,6 @@
 # Week 2
 
+```bash
 vi is text editor for UNIX/linux
 i	# switch to input mode
 esc	# switch to command mode
@@ -31,3 +32,32 @@ $	# last line/ last position of line
 :n1, n2 s /p1/p2	# replace p1 with p2 from line n1 to n2
 :n1, n2 s /p1/p2/g	# replace all match p1 with p2 from line n1 to n2
 :n1, n2 d	# delete line n1 to line n2
+
+gcc <filename>.c -o <filename>.out	# compile c file
+```
+
+print1to100.c
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a = 0;
+    int b = 0;
+    printf("a=");
+    scanf("%d", &a);
+    printf("b=");
+    scanf("%d", &b);
+    if (a > b)
+    {
+        int temp = a;
+        a = b;
+        b = temp;
+    }
+    for (int i = a; i <= b; i++)
+    {
+        printf("%d\n", i);
+    }
+    return 0;
+}
+```
