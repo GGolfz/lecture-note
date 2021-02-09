@@ -190,3 +190,63 @@ Project manager enhances the probability that a project will
 - Goal Pressure
 - Delegation (permissiveness)
 - Recognizing performance
+
+# Feasibility
+
+## Introduction
+
+"Whether or not to go ahead with a project"
+
+Such evaluation is a part of feasibility studay (make sure that we should do/continue to project) based on 
+- Existing Strategies
+- Technical Criteria
+- Economic Criteria
+- Risk Involved
+
+### Strategic Assessment
+- กลยุทธ์ที่มีอยู่ ไม่ว่าจะเป็น Objective, Intofrmation Strategy.
+### Porfolio Management
+
+สำหรับพวก Softwarre House โปรเจคอะบางทีก็เพื่อเก็บเป็น port คือว่ามันส่งผลดีต่อดปรเจคอื่น ๆ ในอนาคตไหม เกี่ยวข้องกับ จุดประสงค์หลัก/ความเชี่ยวชาญของบริษัทเราไหม ถ้าทำแล้วจะมีประโยชน์ยังไงบ้าง นอกจากนี้ยังต้องดู ว่า Hardware and Software ที่เราอยู่เพียงพอต่อการทำไหมด้วย ถ้าไม่พอต้องวิเคราะห์ cost อีก
+
+
+### Cost Benefit Analysis
+
+วิเคราะห์ว่า cost ของเรามีอะไรบ้าง กับ benefit อะไรบ้างที่เราจะได้รับจากมัน
+
+Direct benefit => Measure ได้
+Assessable indirect benefits => ไม่ชัดเจน แต่ก็สามารถ Measure ได้ เช่นการเปลี่ยน UI แอป
+Intangible benefit => วัดยากมาก ๆ
+
+### Cash Flow Forecasting
+
+- Indicate when and how much expenditure and income will take place.
+
+### Net profit 
+
+Different between the total cost and the total income over the life of project.
+
+### Payback period 
+
+The year that income can fit cost that we initial investment.
+
+### Return on investment
+
+Accounting Rate of Return (ARR)
+
+ROI = AVG of Annual Profit / total investment x 100
+
+AVG of Annual Profit = Net profile / year
+
+Disadvantage => No account of timing of the cash flow and can misleading the decision with normal interest rates.
+
+### Net Present Value
+
+It can happen inflation that money current worth than future.
+
+Present Value = Value in year t / (1+r)^t
+
+### Internal Rate of Return
+
+Provides a profitablity measure as a percentage return directly in comparable with interest rates.
+
