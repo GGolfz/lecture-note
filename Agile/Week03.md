@@ -114,3 +114,79 @@ Finish Phase -> Finalize Products, review and accept, transfer product responsib
 - Project management processes describe, organize, and complete the work of the project.
 - Project-oriented processes address the specification and creation of the project product
 - Project management processes and project-oriented processes overlap one another and interest throughout the life of the project
+
+## PDCA (Plan Do Check Act)
+Plan -> Establish the objective and process necessary to deliver results in accordance with customer requirement and organization policies.
+
+Do -> Implement the process
+
+Check -> Monitor and measure processes and product against policies, objective, and requirement and report the result
+
+Act -> Take action to continually improve process performance
+
+Step for PDCA
+
+Plan
+Step 1: Identify the problem
+Step 2: Analyze the problem
+Do
+Step 3: Develop Solution
+Step 4: Implement a Solution
+Check
+Step 5: Evaluate the result
+Act
+Step 6: Standardize the solution and capitalize on new opportunity
+
+## Project = Small Business
+
+Have problem and come with risk -> Need to identify customer expectation.
+
+You implement for company -> Can control requirement but cannot control expectation
+
+## Definition of Project Manager
+
+A project manager acts as the single point of contact on the project
+
+- Planning and Organizing the work
+- Managing the day-to-day activities of a project
+- Delivering the project deliverable to the client
+- Identifying potential stakeholders
+
+## Project Stakeholder
+
+Person, organization, sponsors, who performing the project and involve with the project.
+
+Know your stakeholder -> Their profile, concerns, Expectation, and the channels by which they can be reaches.
+
+Understand stakeholder => เอาใจเขามาใส่ใจเรา พยายามเข้าใจให้ได้ว่าจริง ๆ แล้วเขาต้องการอะไร ไม่ใช่เชื่อแต่สิ่งที่เขาบอก
+
+## Project Manager Value.
+
+Project manager enhances the probability that a project will
+
+- produce quality product
+- Stay on schedule
+- Complete within budget
+- Satisfy the client requirements
+- Lead to follow-on business
+- Achieve success
+
+## Key Competency of a successful project manager
+- Long range perspective
+- Risk Taking venturesomeness
+- Clarification of Goal
+- Innovation and Creativity
+- Participative problem solving
+- Systematic thinking and planning
+- Strategic inquiry
+- Political awareness
+- Team member facilitation
+- Team development
+- Assertiveness
+- Feedback to team member
+- Relation with functional managers
+- Standards of performance
+- Drive
+- Goal Pressure
+- Delegation (permissiveness)
+- Recognizing performance
