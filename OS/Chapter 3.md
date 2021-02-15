@@ -90,3 +90,21 @@ OS ต้องมีการจัดการเกี่ยวกับ Memo
 
 ใช้สำหรับจัดการ Process ต่าง ๆ ที่ OS ควบคุมอยู่
 
+## Process Control Structures
+
+ใช้สำหรับควบคุมการทำงานของ Process โดย OS จำเป็นต้องรู้ว่า Process นี้อยู่ที่ไหน และมี Attribute อะไรบ้าง
+
+### Process Location
+
+### Process Description
+
+## Process Control
+
+### Mode of Execution
+### Process Creation
+### Process Switching
+## Execution of the  Operation System
+### Nonprocess Kernel
+### Execution with User Process
+### Process-based OS
+## UNIX SVR4 Process Management
