@@ -11,6 +11,7 @@ jobs # show all running job
 kill -9 <pid> # kill specify process
 od -c <filename> # display value in base8
 cat <a> <b> # concatinate file a with file b and displaycat
+chmod <permission> <file_name> # change mode of file
 ```
 Score File
 ```
