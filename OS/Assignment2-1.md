@@ -33,6 +33,7 @@ T4 = 20  -> T/20
 ### CPU Utilization
 Cpu usage = 8+4+6+4 = 22
 CPU Util = 22/60
+
 B)
 
 <img src="https://github.com/GGolfz/lecture-note/blob/master/image/assign4-02.png" >
