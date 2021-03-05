@@ -9,6 +9,8 @@ sort <filename> : # sort file by lines (Alphabetical)
 head -n <num> <filename> : # Show top num line
 tail -n <num> <filename> : # Show last num line
 | : # Send output of current to next program
+echo <text> : # print text
+&& : # When finish continue next program withour pipe
 ```
 
 Exercise 1
@@ -69,4 +71,17 @@ Sum number in the data file and add the result summation into file answer5. Do n
 or
 ```sh
 ./sum.out < data | grep Summation > answer5
+```
+
+Exercise 10
+Sum the first 3 line 
+```sh
+head -n 3 data > temp && echo "-1" >> temp && ./sum.out < temp | tail -n 2 && rm temp
+```
+
+Exercise 11
+show file that update around 18:00 
+
+```sh
+ls -l | grep 18: 
 ```
