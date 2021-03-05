@@ -54,3 +54,19 @@ Show the third Katak line
 ```sh
 grep Katak katakfile | head -n 3 | tail -n 1
 ```
+
+Exercise 8
+Sum all numbers from data file and put result in a file name answer3 
+```sh
+./sum.out < data | tail -n 2 > answer3
+```
+
+Exercise 9 
+Sum number in the data file and add the result summation into file answer5. Do not put average into the file.
+```sh
+./sum.out < data | tail -n 2 | head -n 1 > answer3
+```
+or
+```sh
+./sum.out < data | grep Summation > answer5
+```
