@@ -8,9 +8,8 @@ Define the following quantities for system utilization:
 - Throughput = average number of jobs completed per time period T
 - Processor utilization = percentage of time that the processor is active (not waiting)
 
-	|J1		|J1		|J2	 |J2			|J3		|J4	 |J4			  |
-A	|-------|-------|----|--------------|-------|----|----------------|
-	0		8		16	20				34		40	44				 60
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/assign4-01.png" width="400" height="400">
+
 ### Turnaround Time: Time for complete 
 - J1 = 16
 - J2 = 34
@@ -36,13 +35,7 @@ Cpu usage = 8+4+6+4 = 22
 CPU Util = 22/60
 B)
 
-|J1-|-I/O-J1----|J1-|IO1|		|J1-|	|J1-|
-|	|J2-|-Disk2-----|J2-|--Disk2--------|			
-|		|J3-|			|J3-|		|J3-|
-|			|J4-|-Printer-J-|J4-|---Printer-J4------|
-|
-|
-0	2	4	6	8	10	12	14	16	18	20	22	24	26
+<img src="https://github.com/GGolfz/lecture-note/blob/master/image/assign4-02.png" width="400" height="400">
 
 ### Turnaround
 J1	= 22
