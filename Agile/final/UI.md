@@ -90,7 +90,9 @@ Intermediate to expert
 - Entire books and course; learning curves are steep
 
 Occasional users (นาน ๆ ใช้ที)
+- Used to use but not use for a long long time.
 - Restrained in functionality but helpful about explaining along the way
+- Provide a simplified interface: like a search box
 
 In the middle
 - Need to serve people on both ends adequately
@@ -107,3 +109,62 @@ Interface is just a means to the ends.
 - When user or client tells you that they want a certain feature, ask them why they want it?
 
 Design Value: Solve the right problem then solve it right.
+
+---
+## Research
+
+Ways to understand people, context, and goals
+
+Empirical discovery
+
+- Qualitative research
+
+For understanding your audience's expectations, vocabulary, and how they think about their goals or structure their work and also detect pattern.
+
+- Quanititative research
+
+To start a design, you need to characterize the kinds of people who will use the software.
+- Go out and meet them
+- Each user group is unique
+- Target of audience is difference (Ex: New mobile phone app & scientific software)
+- Even it is same people but expectation are different
+(Scientific: High functionality, Mobile App: Difficult UI)
+
+You should figure out  what generally true about your users.
+
+What to learn from research ?
+- Their goal in using the software or site
+- The specific tasks they undertake in persuit of those goals
+- The language and words they use to describe what they're doing
+- Their skill at using software similar to your software
+- Their attitude toward to software that you gonna build, how difference design affect to their attitude?
+
+### Research Method
+
+### Direct Observation
+- Interview, onsite user visits => Put you directly into user world
+- On location
+- Structured or Unstructured
+- A lot of flexibility
+- Many or few, long or short, formal or informal, phone or inperson
+
+### Case studies
+- Deep details views into a few representative users or groups of users
+
+### Survey
+- Collect information from many users.
+- No direct human contact -> Miss a lot of extra information
+- Whatever you don't ask about, you won't learn about
+- Careful survey design is also essential 
+- Question should be correct
+- Survey receiptant should be correct and suitable
+- Analyse answer correctly
+
+### Persona
+- Help you to figure out what to do with your data after you finish collect it.
+- Model the target audience, simulate their behavior: fictional peson, who capture the important aspects of a group of users
+- Tasks that they're trying to accomplist
+- Ultimate Goals
+- Experience level
+
+You should plan to research carefully => Who and how many.
