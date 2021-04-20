@@ -93,12 +93,15 @@ Occasional users (นาน ๆ ใช้ที)
 - Used to use but not use for a long long time.
 - Restrained in functionality but helpful about explaining along the way
 - Provide a simplified interface: like a search box
+- Provide help to increase learnability
 
 In the middle
 - Need to serve people on both ends adequately
 - Help user to learn the tool
 - Enable frequent-user intermediates to get things done smoothly
 - Find balance that works for your situation
+
+Context: Understand user in various way to get the idea of design interface
 
 --- 
 ## Goal
@@ -108,7 +111,7 @@ Interface is just a means to the ends.
 - Filling out a form is almost never a goal in itself, the real goal is buying something online, renew membership, or install software
 - When user or client tells you that they want a certain feature, ask them why they want it?
 
-Design Value: Solve the right problem then solve it right.
+Design Value: Solve the right problem (what they want to do?) then solve it right (user get good ux).
 
 ---
 ## Research
