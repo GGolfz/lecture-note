@@ -36,7 +36,7 @@ Interface ที่ดีนั้นเริ่มมาจากการเ�
 
 ---
 
-### Context
+## Context
 
 ### Understand the human context for your design intention
 
@@ -89,7 +89,7 @@ Intermediate to expert
 - Optimise for efficient operation, not learnability
 - Entire books and course; learning curves are steep
 
-Occasional users
+Occasional users (นาน ๆ ใช้ที)
 - Restrained in functionality but helpful about explaining along the way
 
 In the middle
@@ -97,3 +97,13 @@ In the middle
 - Help user to learn the tool
 - Enable frequent-user intermediates to get things done smoothly
 - Find balance that works for your situation
+
+--- 
+## Goal
+
+Interface is just a means to the ends.
+- What the users are really try to accomplish
+- Filling out a form is almost never a goal in itself, the real goal is buying something online, renew membership, or install software
+- When user or client tells you that they want a certain feature, ask them why they want it?
+
+Design Value: Solve the right problem then solve it right.
