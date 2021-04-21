@@ -171,3 +171,70 @@ What to learn from research ?
 - Experience level
 
 You should plan to research carefully => Who and how many.
+
+---
+
+## Pattern
+- Cognition & Behavior ralated to Interface Design
+- Pattern is common way of people think => related to software interfaces
+- Although people are different but it can predictably
+- Interface that supports pattern well help user to achieve their goals more than interface that not supports pattern
+
+### Safe Exploration
+> "Let me explore without getting lost or getting into trouble."
+Good software must allow people to try something unfamiliar, backout, and try something else, all without stress.
+- Visibility of system status
+- Match between the system and real world
+- User control and freedom
+
+### Instant Gratification
+> "I want to accomplish something now, not later."
+- People like to see immediate results from the action they take.
+- If someone starts using an application and gets a "success experience" within the first few seconds, that's gratifying.
+- They will be more likely to keep using it, even if it becomes more difficult later.
+- If you can predict the first thing that a new user likely to do, you should design the UI to make that first thing stunningly easy.
+- Anticipate their need, provide an obvious entry point, provide value to customer first before asking for something valuable (Email, Sale) in return
+
+### Satisficing
+> "This is good enough. I don't want to spend more time learning to do it better."
+- Satisficing: combination of satisfying and sufficing
+- People are willing to accept 'good enough' instead of 'best' if learning all the alternatives might cost time and effort.
+- Give directions on what to do first: type here, drag an image here, tap here to begin, etc.
+- Make labels short, plainly worded, and quick to read (menu items, buttons, links, and anything else identified by text)
+- Write them so that user first guess about the meaning is correct
+- Use the layout of interface to communicate meaning, Users parse the color and form on sight, they follow these cues more efficiently than labels that must be read.
+
+### Changes in Midstream
+> "I change my mind about what I was doing."
+- People might change what they are doing while in the middle of doing it.
+- You can make it easy for someone to start a process, stop in the middle, and comeback to it later to pick up where they left off - property often called reentrance.
+
+### Deferred Choices
+> "I don't want to answer that now, just let me finish"
+- If you ask a task-focused user unneccessary questions in the process, they might prefer to skip the questions and come back to them later.
+- Create new video project in video editor, there something need to fill in the front such as name but something like where to save when done might be easily to defer.
+
+### Incremental Construction
+> "Let me change this. That doesn't look right; let me change it again. That's better."
+- When people create things, they start with small piece of it, work on it, step back and look at it, test it, fix what's wrong, and start to build others parts of it.
+- The creative process moves backward as much as forward sometimes.
+- Builder-Style interface need to support that style of works.
+- Make it easy for users to build small pieces, keep the interface responsive to quick changes and saves. Feedback is critical: constantly show the user what the entire thing looks like.
+
+### Habituation
+> "That gesture works everywhere else; why doesn't it work here too?"
+- When you user an interface repeatedly, some frequent physical actions become reflexive. (Ex: click back button to leave webpage)
+- The user no longer needs to think consciously about these action. They've become habitual.
+- These tendency help people become expert users of a tool.
+- Habituation also measurably improve efficiency
+- But it can also lay traps for the user. If a gesture becomes a habit and tries to use it in situation that it doesn't work, user may caught short.
+- Consistency across applications can be an advantage to use in your software design.
+- Just as important is consistency within an application.
+- Because of habituation, confirmation dialog boxes often doesn't work to protect a user against accidential changes.
+
+### Microbreaks
+### Spatial Memory
+### Prospective Memory
+### Streamlined Repetition
+### Keyboard only
+### Social Media, Social Proof, and Collaboration
