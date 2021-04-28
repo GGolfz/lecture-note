@@ -208,6 +208,7 @@ Good software must allow people to try something unfamiliar, backout, and try so
 > "I change my mind about what I was doing."
 - People might change what they are doing while in the middle of doing it.
 - You can make it easy for someone to start a process, stop in the middle, and comeback to it later to pick up where they left off - property often called reentrance.
+- Provide back to same place (Ex: go from page 6 and when click back should in page 6)
 
 ### Deferred Choices
 > "I don't want to answer that now, just let me finish"
@@ -233,8 +234,67 @@ Good software must allow people to try something unfamiliar, backout, and try so
 - Because of habituation, confirmation dialog boxes often doesn't work to protect a user against accidential changes.
 
 ### Microbreaks
+> "I'm waiting for the train. Let me do something useful for two minutes"
+- People often find themselves with a few minutes of downtime. They want to do something constructive or entertaining to pass the time, knowning they won't have enough time to get deep into an online activity 
+- This pattern is especially applicable to mobile device
+- The key to supporting microbreaks is to make an activity easy and fast to reach
+	- Don't require complicated setup.
+	- Don't take forever to loud
+	- If the user needs to sign in, try to retain the previous authentication.
+- For Stream and Feed service, load the freshest content as quickly as possible and show it in the first screen the user sees.
+- Game, video, or online books should remember where the user left them last time and restore the app or site to its previous state without asking (reentrance)
+- Long load times to load content is a sure way to make users give up on your app.
+
 ### Spatial Memory
+> "I swear that button was here a minute ago. Where did it go?"
+- When people manipulate objects and documents, they often find them again later by remembering where they are, not what they've named. (จะจดจำตำแหน่งมากกว่าชื่อ)
+- People tend to use spatial memory to find things on the desktop, and it's effective
+- People devise their own groupings, for instance, or recall that "this document was at the upper right over by such-and-such"
+- Many app put dialog button (OK,Cancel) in predictable place (เดาได้) because spatial memory for them is so strong.
+- In complex app, people might find thing by remember where they relative to others (Ex: tools on toolbars)
+- Add item to blank space in interface doesn't cause problem, but rearranging existing might disrupt spatial memory and make it difficult to find.
+- Along with habituation, spatial memory is another reason why consistency in application is good. People might expect to find similar functionallity in similar place 
+- Spatial memory explains why it is good to provide user-arranged areas for storing documents and objects. When people arrange things themsevles, they're likely to remember where they put them.
+- This is why changing menus dynamically can sometimes backfire. Try to keep menu items in the same place and in the same order on all subpages in a site.
+- The top and bottom of lists and menus are special locations. People notice and remember them more than items in the middle of the list.
+
 ### Prospective Memory
+> "I'm putting this here to remind myself to deal with it later."
+- We engage in prospective memory when we plan to do something in the future, and we arrange some way of reminding ourselves to do it.
+- Memory aids that people use can include the following:
+	- notes to oneself, like virtual "sticky notes"
+	- Windows left on-screen
+	- annotations put directly into documents
+	- browser bookmarks, for website to be viewed later
+	- documents stored on the desktop rather than in the usual places in the file system.
+- Don't try to design a system that's too smart for its own good. (Don't assume that just because window been left idle for a while and no one use it so it should be closed)
+- Many applications recall the last few objects or documents they edited
+
 ### Streamlined Repetition
+> "I have to repeat this how many times?"
+- In many kinds of applications, users sometimes find themselves needing to perform the same operation over and over again.
+- The easier for them, the better
+- Find and Replace dialog box, Macros
+- Direct observation of users can help you to determine just what kinds of repetitive tasks you need to support.
+
 ### Keyboard only
+> "Please don't make me use the mouse"
+- Some people prefer not to keep switching between the mouse and keyboard because that takes time and effort.
+- Keyboard-only usage is particularly important for data-entry application. Speed of data entry is critial, and users can't afford to move their hands off the keyboard to the mouse every time they want to move from one field to another.
+
 ### Social Media, Social Proof, and Collaboration
+> "What did everyone else say about this?"
+- People are social.
+- We tend to be influenced by what our peers say and do. We are powerfully attuned to seeking approval from others and belonging to a group.
+- We are much more likely to watch, read, buy, join share, comment, or take any other action if we see that someone we know thas recommended it or done it. This is called **social proof**
+- Some examples of social functionality:
+	- User-generated reviews and comments
+		- These allow individuals to get a sense of the wisdom of the crowd
+		- Reviews can be rated and participants can gain fame or ther rewards for being rated as a good reviewer
+- Everything is a social object
+	- Text posts, images, video, almost anything that users create in social media becomes an object that people can virtually gater around.
+	- Anytihng can be shared, rated, have a discussion thread attached to it, and similar activities.
+- Collaboration
+- Social Proof motivates people to take action. 
+- Social group identity, participation, and recognition are powerfully rewarding to people.
+- Designing these capabilities into your interface creates the opportunity for social dynamics to increase your audiences' engagement, reward, and growth
