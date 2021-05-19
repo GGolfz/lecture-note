@@ -134,7 +134,7 @@ Nested menus are effective when dealing with a large number of categories, but t
 
 In addition to the economy of motion within a page, consider the number of clicks required for a user to complete a particular task.
 
-For something used every day for critical work, a large number of clicks bwill become inefficient and frustrating for users.
+For something used every day for critical work, a large number of clicks will become inefficient and frustrating for users.
 
 Having all options closely gathered and present can be overwhelming.
 
