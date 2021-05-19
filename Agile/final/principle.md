@@ -68,7 +68,7 @@ In defining these relationships, you'll becreating a visual language for the sit
 
 A very busy design with many elements may seem like a lot of voices shouting to the user. (May cause user confusing which one is important and when it need)
 
-When design has a good economy of elements -> When element is purposeful, relevant, and information-ric. 
+When design has a good economy of elements -> When element is purposeful, relevant, and information-rich. 
 
 When those that aren't removed -> able to ensure the information can be easily digested and acted upon.
 
@@ -111,11 +111,11 @@ How quickly and effectively she can do that depends on the distance she has to t
 On a web page, for example, a small button far from her cursor is going of take longer to use than a large one right next to it.
 
 Fitts' Law:
-The time requiredd to rapidly move to a target area is a function for the distance to the target and the size of the target.
+The time required to rapidly move to a target area is a function for the distance to the target and the size of the target.
 
 So why is it that most navigation is far away from where the user is likely to be - at the top and bottom edges of screen ?
 
-Partly it make sure it's out of the way of chaanging content in the middle, but also because the navigation is pinned to the edge, users are less likely to overshoot when moving to it with a cursor or pointing with finger. So the position actually makes it a larger target.
+Partly it make sure it's out of the way of changing content in the middle, but also because the navigation is pinned to the edge, users are less likely to overshoot when moving to it with a cursor or pointing with finger. So the position actually makes it a larger target.
 
 Thinking of distance and target size may seem obvious, but it demonstrates an understanding of an economy of motion that you should be considering when designing navigational elements, and that can be easy to forget when you're in the middle of design.
 
